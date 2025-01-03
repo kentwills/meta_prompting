@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Mac OS metadata
+.DS_Store
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# Installed distributions and eggs
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+
+# Logs
+*.log
+*.out
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# VSCode settings (optional)
+.vscode/
+
